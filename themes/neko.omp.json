@@ -35,12 +35,6 @@
           },
           {
             "foreground": "#1a415d",
-						"style": "plain",
-						"template": "⌚",
-						"type": "text"
-					},
-          {
-            "foreground": "#1a415d",
             "properties": {
               "time_format": "15:04"
             },
