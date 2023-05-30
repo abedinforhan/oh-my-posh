@@ -6,7 +6,7 @@
         "segments": [
           {
             "style": "plain",
-            "template": "😺💬<#FF8000> Meow! What should I do next? ...</>",
+            "template": "😁<#FF8000> Hey Persian ! কি করব আদেশ দিন ? ...</>",
             "type": "text"
           }],
           "type": "prompt"
@@ -57,7 +57,7 @@
 					{
 						"foreground": "#FF8000",
 						"style": "plain",
-						"template": "😀💬<#FF8000> ~ </>",
+						"template": "😁<#FF8000> ~ </>",
 						"type": "text"
 					}
 				],
