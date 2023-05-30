@@ -6,7 +6,7 @@
         "segments": [
           {
             "style": "plain",
-            "template": "😁<#FF8000> Hey Posh Dev Persian! Tell me what to do? ...</>",
+            "template": "🐱 <#FF8000> Hey Posh Dev Persian! Tell me what to do? ...</>",
             "type": "text"
           }],
           "type": "prompt"
